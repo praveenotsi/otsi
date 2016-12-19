@@ -1,0 +1,2 @@
+# otsi
+local repository
